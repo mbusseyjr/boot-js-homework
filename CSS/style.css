@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    color:#000;
+    font-size: 18px;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+.boxesRow{
+    height: 300px;
+}
+
+.boxesRow div{
+    height: 100%;
+}
+
+
+.firstDiv{
+    background: red;
+    border: 3px solid black;
+}
+
+.firstdivnew{
+    background: pink
+    border: 5px solid orange
+
+}
+.secondDiv{
+    background: blue;
+    border: 3px dashed yellow;
+    margin: 0 50px;
+}
+
+.thirdDiv{
+    background: limegreen;
+    border: 3px solid purple;  
+}
+
+.changeTitle{
+    color: blue;
+    text-decoration: underline;
+}
+
+.rowBtns span{
+    background: gray;
+    padding: 5px 10px;
+}
